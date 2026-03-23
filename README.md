@@ -41,8 +41,7 @@ The system generates targeted wordlists using user information and attempts to c
    
 
 ## 📷 Demo
-[screenshot](demo.png)
-(Add screenshot here)
+![Demo picture](image.png)
 
 
 ## ⚠️ Disclaimer
